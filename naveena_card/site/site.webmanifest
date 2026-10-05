@@ -1,0 +1,16 @@
+{
+  "name": "Naveena Neerada Dasa · World Food Movement & The Akshaya Patra Foundation",
+  "short_name": "Naveena Dasa",
+  "description": "Executive Director. Tap to save my contact.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f6efdf",
+  "theme_color": "#6b1424",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

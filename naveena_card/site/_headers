@@ -1,0 +1,16 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/*.vcf
+  Content-Type: text/vcard; charset=utf-8
+  Cache-Control: public, max-age=300, must-revalidate
+
+/site.webmanifest
+  Content-Type: application/manifest+json; charset=utf-8
+
+/img/*
+  Cache-Control: public, max-age=604800
+
+/qr-contact.svg
+  Cache-Control: public, max-age=3600

@@ -1,0 +1,3 @@
+# Used by the Netlify CLI and Git deploys. Only the site/ folder is published.
+[build]
+  publish = "site"
